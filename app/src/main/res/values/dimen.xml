@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="widhbuttonone">200sp</dimen>
+    <dimen name="heightbuttonone">60sp</dimen>
+    <dimen name="eightbuttonone">80sp</dimen>
+    <dimen name="widthbuttontwo">250sp</dimen>
+    <dimen name="chet">30sp</dimen>
+    <dimen name="niq">550sp</dimen>
+    <dimen name="girl">18sp</dimen>
+    <dimen name="res">23sp</dimen>
+    <dimen name="toch">30sp</dimen>
+</resources>

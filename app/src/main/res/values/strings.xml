@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Waifu</string>
+    <string name="ndva">Zero two</string>
+    <string name="who">Who is the best waifu?</string>
+    <string name="raf">Raphtalia</string>
+    <string name="scorendva">4</string>
+    <string name="scoreraf">5</string>
+    <string name="colon">:</string>
+    <string name="reset">Reset</string>
+</resources>
